@@ -1,0 +1,16 @@
+{
+  "total_players": 100000,
+  "total_records": 600000,
+  "date_range": {
+    "start": "2025-07-22",
+    "end": "2025-12-19"
+  },
+  "churn_rate": 0.19305,
+  "archetype_distribution": {
+    "casual": 34918,
+    "at_risk": 24945,
+    "social": 20028,
+    "hardcore": 15016,
+    "whale": 5093
+  }
+}
